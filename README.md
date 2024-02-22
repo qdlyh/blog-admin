@@ -89,12 +89,3 @@
 ## 🦐 预览项目
 [在线预览](https://1esse.github.io/vue-clownfish-admin-elem)
 
-## 🐡 其他
-项目基本架构搭建完成，即将启动页面功能解决方案的开发。如果你有你的想法，也欢迎提pr参与项目开发。
-
-遇到项目任何问题欢迎提[issue](https://github.com/1esse/vue-clownfish-admin/issues/new)。
-
-## 🐙 License
-[MIT License](https://github.com/1esse/vue-clownfish-admin/blob/master/LICENSE)
-
-Copyright	&copy; 2022-present ZhaoJieXin
